@@ -1,0 +1,3 @@
+?CLUSTAL W
+
+?BWA mem? 
